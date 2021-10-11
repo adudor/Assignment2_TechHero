@@ -55,41 +55,6 @@ h3{
 
 }
 
-.homeImage{
-  width:960px;
-}
-
-.h2about{
-  background-color: azure;
-  text-align: center;
-  width: 350px;
-  margin: auto;
-  margin-top: 30px;
-  border-radius: 10px;
-}
-
-.left{
-  float: left;
-  height:auto;
-  margin-top: 50px;
-  margin-left:50px;
-  border: 5px solid white;
-  border-radius: 30px;
-  background-color: #33AAAA;
-  width:450px;
-
-}
-.right{
-  float:right;
-  height:auto;
-  margin-top: 50px;
-  margin-right:100px;
-  border: 5px solid white;
-  border-radius: 30px;
-  background-color: #33AAAA;
-  width: 500px;
-
-}
 p{background-size: contain;
   padding: 15px;
   /*height: 90%;*/
@@ -135,31 +100,6 @@ p{background-size: contain;
   background-color: white;
   border-radius: 30px;
 
-}
-.contact{
-  width:250px;
-  margin: 0px 0px 10px 35px;
-}
-.h2contact{
-  background-color: #66CCCCAA;
-  width: 280px;
-  margin-top: 30px;
-  border-radius: 10px 10px 0px 0px;
-}
-
-.img2{
-  float:left;
-    border: 5px;
-  margin-right: 30px;
-  background-color: lightgrey;
-  padding: 10px;
-}
-.img3{
-  float:right;
-  margin-left: 30px;
-  background-color: lightgrey;
-  padding: 10px;
-  border: 3px;
 }
 
 
